@@ -1,0 +1,29 @@
+.favorites {
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.favorites h2 {
+  color: white;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.favorites-empty {
+  text-align: center;
+  padding: 4rem 1rem;
+  margin: 2rem auto;
+  max-width: 600px;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+}
+
+.favorites-empty h2 {
+  color: #e50914;
+  margin-bottom: 1rem;
+}
+
+.favorites-empty p {
+  color: #999;
+}
